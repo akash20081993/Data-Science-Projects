@@ -1,0 +1,18 @@
+Data Collection:
+
+Acquired 6 months of operational data with labels from the client.
+Exploratory Data Analysis (EDA):
+
+Conducted EDA to comprehend data patterns and characteristics.
+Data Preprocessing:
+
+Applied preprocessing techniques, including imputation and outlier removal.
+Model Validation:
+
+Utilized K-fold cross-validation to mitigate overfitting risks.
+Model Selection:
+
+Identified KNN (K-Nearest Neighbors) as the optimal predictive model.
+Model Evaluation:
+
+Assessed model performance using accuracy and F1 score metrics.
