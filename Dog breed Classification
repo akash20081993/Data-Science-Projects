@@ -1,0 +1,21 @@
+Dataset Download:
+
+Acquired the dataset from Kaggle using the Kaggle JSON file.
+Image Data Augmentation:
+
+Applied image augmentation techniques using Image Data Generators.
+Data Splitting:
+
+Split the data into training and validation sets.
+Transfer Learning:
+
+Employed transfer learning with ResNet, EfficientNet, and Inception models.
+Model Construction:
+
+Built a functional model using ADAM as the loss function and Categorical Cross Entropy as the optimizer.
+Model Evaluation:
+
+Evaluated the model's performance using validation accuracy and validation losses.
+Callback Functions:
+
+Implemented callback functions to display graphs for analysis on TensorBoard.
